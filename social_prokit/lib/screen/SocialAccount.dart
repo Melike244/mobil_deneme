@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
+import 'package:social_prokit/main.dart';
 import 'package:social_prokit/utils/SocialColors.dart';
 import 'package:social_prokit/utils/SocialConstant.dart';
 import 'package:social_prokit/utils/SocialImages.dart';
 import 'package:social_prokit/utils/SocialStrings.dart';
 import 'package:social_prokit/utils/SocialWidget.dart';
-import 'package:social_prokit/main.dart';
 
 import 'SocialChangeNumber.dart';
 import 'SocialDeleteAccount.dart';

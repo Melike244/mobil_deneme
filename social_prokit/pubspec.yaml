@@ -9,10 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-    
-
-    supabase_flutter: ^2.5.3
+  supabase_flutter: ^2.5.3
 
     # Routing
   auto_route: ^4.2.1
@@ -24,7 +21,7 @@ dependencies:
 
   # Base
   cupertino_icons: ^1.0.5
-  nb_utils: ^6.0.4*
+  nb_utils: ^6.0.4
   intl: ^0.18.1
   flutter_vector_icons: ^2.0.0
   google_fonts: ^6.1.0
